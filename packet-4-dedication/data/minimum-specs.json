@@ -1,44 +1,10 @@
 {
-    "RANK1": {
-        "LINES": 1500,
-        "HOURS": 120,
-        "WORDS": 11250,
-        "CMMTS": 75,
-        "RANK": 1
-    },
-    "RANK2": {
-        "LINES": 1000,
-        "HOURS": 80,
-        "WORDS": 7500,
-        "CMMTS": 50,
-        "RANK": 2
-    },
-    "RANK3": {
-        "LINES": 600,
-        "HOURS": 48,
-        "WORDS": 4500,
-        "CMMTS": 30,
-        "RANK": 3
-    },
-    "RANK4": {
-        "LINES": 300,
-        "HOURS": 24,
-        "WORDS": 2250,
-        "CMMTS": 15,
-        "RANK": 4
-    },
-    "RANK5": {
-        "LINES": 100,
-        "HOURS": 8,
-        "WORDS": 750,
-        "CMMTS": 5,
-        "RANK": 5
-    },
-    "RANK6": {
-        "LINES": 0,
-        "HOURS": 0,
-        "WORDS": 0,
-        "CMMTS": 0,
-        "RANK": 6
+    "LINES": {
+        "1500": 1,
+        "1000": 2,
+        "600": 3,
+        "300": 4,
+        "100": 5,
+        "0": 6
     }
 }
