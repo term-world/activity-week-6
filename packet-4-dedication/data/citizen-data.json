@@ -1,0 +1,290 @@
+{
+    "ID#00": {
+        "LINES": 81,
+        "HOURS": 5,
+        "WORDS": 908,
+        "CMMTS": 12
+    },
+    "ID#01": {
+        "LINES": 127,
+        "HOURS": 9,
+        "WORDS": 1415,
+        "CMMTS": 19
+    },
+    "ID#02": {
+        "LINES": 332,
+        "HOURS": 20,
+        "WORDS": 782,
+        "CMMTS": 12
+    },
+    "ID#03": {
+        "LINES": 172,
+        "HOURS": 24,
+        "WORDS": 2017,
+        "CMMTS": 9
+    },
+    "ID#04": {
+        "LINES": 614,
+        "HOURS": 41,
+        "WORDS": 4276,
+        "CMMTS": 31
+    },
+    "ID#05": {
+        "LINES": 217,
+        "HOURS": 28,
+        "WORDS": 1945,
+        "CMMTS": 28
+    },
+    "ID#06": {
+        "LINES": 372,
+        "HOURS": 42,
+        "WORDS": 1982,
+        "CMMTS": 17
+    },
+    "ID#07": {
+        "LINES": 617,
+        "HOURS": 18,
+        "WORDS": 984,
+        "CMMTS": 13
+    },
+    "ID#08": {
+        "LINES": 983,
+        "HOURS": 32,
+        "WORDS": 4213,
+        "CMMTS": 27
+    },
+    "ID#09": {
+        "LINES": 1042,
+        "HOURS": 81,
+        "WORDS": 9210,
+        "CMMTS": 53
+    },
+    "ID#10": {
+        "LINES": 313,
+        "HOURS": 9,
+        "WORDS": 1923,
+        "CMMTS": 18
+    },
+    "ID#11": {
+        "LINES": 602,
+        "HOURS": 23,
+        "WORDS": 2727,
+        "CMMTS": 54
+    },
+    "ID#12": {
+        "LINES": 23,
+        "HOURS": 2,
+        "WORDS": 94,
+        "CMMTS": 3
+    },
+    "ID#13": {
+        "LINES": 104,
+        "HOURS": 27,
+        "WORDS": 4018,
+        "CMMTS": 17
+    },
+    "ID#14": {
+        "LINES": 371,
+        "HOURS": 43,
+        "WORDS": 3900,
+        "CMMTS": 34
+    },
+    "ID#15": {
+        "LINES": 1165,
+        "HOURS": 90,
+        "WORDS": 2389,
+        "CMMTS": 17
+    },
+    "ID#16": {
+        "LINES": 617,
+        "HOURS": 53,
+        "WORDS": 4782,
+        "CMMTS": 34
+    },
+    "ID#17": {
+        "LINES": 893,
+        "HOURS": 38,
+        "WORDS": 7092,
+        "CMMTS": 43
+    },
+    "ID#18": {
+        "LINES": 1045,
+        "HOURS": 89,
+        "WORDS": 9043,
+        "CMMTS": 39
+    },
+    "ID#19": {
+        "LINES": 714,
+        "HOURS": 14,
+        "WORDS": 4209,
+        "CMMTS": 19
+    },
+    "ID#20": {
+        "LINES": 651,
+        "HOURS": 87,
+        "WORDS": 11202,
+        "CMMTS": 51
+    },
+    "ID#21": {
+        "LINES": 702,
+        "HOURS": 91,
+        "WORDS": 5910,
+        "CMMTS": 43
+    },
+    "ID#22": {
+        "LINES": 1102,
+        "HOURS": 48,
+        "WORDS": 6016,
+        "CMMTS": 107
+    },
+    "ID#23": {
+        "LINES": 230,
+        "HOURS": 23,
+        "WORDS": 2323,
+        "CMMTS": 23
+    },
+    "ID#24": {
+        "LINES": 404,
+        "HOURS": 91,
+        "WORDS": 4689,
+        "CMMTS": 37
+    },
+    "ID#25": {
+        "LINES": 162,
+        "HOURS": 28,
+        "WORDS": 3900,
+        "CMMTS": 33
+    },
+    "ID#26": {
+        "LINES": 7,
+        "HOURS": 1,
+        "WORDS": 43,
+        "CMMTS": 2
+    },
+    "ID#27": {
+        "LINES": 1582,
+        "HOURS": 123,
+        "WORDS": 14013,
+        "CMMTS": 97
+    },
+    "ID#28": {
+        "LINES": 690,
+        "HOURS": 27,
+        "WORDS": 2140,
+        "CMMTS": 16
+    },
+    "ID#29": {
+        "LINES": 809,
+        "HOURS": 53,
+        "WORDS": 7002,
+        "CMMTS": 54
+    },
+    "ID#30": {
+        "LINES": 792,
+        "HOURS": 43,
+        "WORDS": 2140,
+        "CMMTS": 19
+    },
+    "ID#31": {
+        "LINES": 103,
+        "HOURS": 7,
+        "WORDS": 812,
+        "CMMTS": 8
+    },
+    "ID#32": {
+        "LINES": 192,
+        "HOURS": 13,
+        "WORDS": 749,
+        "CMMTS": 9
+    },
+    "ID#33": {
+        "LINES": 369,
+        "HOURS": 36,
+        "WORDS": 7414,
+        "CMMTS": 24
+    },
+    "ID#34": {
+        "LINES": 692,
+        "HOURS": 47,
+        "WORDS": 2781,
+        "CMMTS": 41
+    },
+    "ID#35": {
+        "LINES": 1254,
+        "HOURS": 107,
+        "WORDS": 2021,
+        "CMMTS": 34
+    },
+    "ID#36": {
+        "LINES": 1074,
+        "HOURS": 82,
+        "WORDS": 5709,
+        "CMMTS": 56
+    },
+    "ID#37": {
+        "LINES": 610,
+        "HOURS": 91,
+        "WORDS": 20871,
+        "CMMTS": 90
+    },
+    "ID#38": {
+        "LINES": 142,
+        "HOURS": 67,
+        "WORDS": 2481,
+        "CMMTS": 31
+    },
+    "ID#39": {
+        "LINES": 530,
+        "HOURS": 35,
+        "WORDS": 4709,
+        "CMMTS": 28
+    },
+    "ID#40": {
+        "LINES": 381,
+        "HOURS": 72,
+        "WORDS": 5991,
+        "CMMTS": 46
+    },
+    "ID#41": {
+        "LINES": 892,
+        "HOURS": 71,
+        "WORDS": 8072,
+        "CMMTS": 40
+    },
+    "ID#42": {
+        "LINES": 69,
+        "HOURS": 19,
+        "WORDS": 2041,
+        "CMMTS": 27
+    },
+    "ID#43": {
+        "LINES": 149,
+        "HOURS": 21,
+        "WORDS": 3700,
+        "CMMTS": 21
+    },
+    "ID#44": {
+        "LINES": 427,
+        "HOURS": 61,
+        "WORDS": 9402,
+        "CMMTS": 41
+    },
+    "ID#45": {
+        "LINES": 850,
+        "HOURS": 35,
+        "WORDS": 4609,
+        "CMMTS": 59
+    },
+    "ID#46": {
+        "LINES": 1001,
+        "HOURS": 84,
+        "WORDS": 9631,
+        "CMMTS": 39
+    },
+    "ID#47": {
+        "LINES": 812,
+        "HOURS": 39,
+        "WORDS": 1372,
+        "CMMTS": 29
+    }
+}

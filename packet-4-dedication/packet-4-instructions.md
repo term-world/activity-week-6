@@ -32,8 +32,12 @@ like the four metrics previously mentioned
 to assess whether each resident is *dedicated* enough to be allowed varying levels of permission
 in terms of changing and enhancing `term-world` with their code.
 
-The data has been collected and stored in `dedication-data.json`.
-This is a `json` file, a special type of file that can be read *as a dictionary*, among other things.
+We have some data. It's stored in `dedication-data.json`.
+(For the security of yourself and other `term-world` citizens, 
+the data you're working with is *not* the official citizen monitoring data.
+The data you're being provided now is just dummy data to develop and test with.
+We'll switch it out for the real deal once you've finished your work.)
+This is a `json` file, a special type of file that can be read in *as a dictionary*, among other things.
 You'll notice the file itself is a large dictionary with *smaller dictionaries inside of it*.
 You may need some time to review the data, but I'm sure its organization will eventually make sense to you.
 
@@ -45,4 +49,4 @@ We've included a separate `citizen-rank-specifications.md` document that
 specifies the thresholds citizens must meet across their dedication metrics
 to acheive particular ranks. You'll want to refer to that as you work.
 
-As always, our city is counting on you.
+As always, our city is counting on you. 
