@@ -15,14 +15,9 @@ def grab_data(filename: str) -> dict[str, dict[str, int]]:
 
 def main():
     # DO NOT TOUCH CODE BLOCK BELOW
-    citizen_data = grab_data("data/citizen-data.json")
-    minimum_specs = grab_data("data/minimum-specs.json")
     print()
     citizen_num = input("Select a two-digit citizen ID# [00-47] to determine rank for: ")
     citizen_full_id = "ID#" + citizen_num
-    print()
-    print("The metrics for the citizen you have selected are:")
-    print(citizen_data[citizen_full_id])
     print()
     # DO NOT TOUCH CODE BLOCK ABOVE
     
