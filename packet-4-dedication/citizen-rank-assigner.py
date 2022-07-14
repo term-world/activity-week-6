@@ -26,6 +26,12 @@ def main():
     print()
     # DO NOT TOUCH CODE BLOCK ABOVE
     
+    # TO-DO: CALL THE FUNCTION TO EVALUATE THE CHOSEN CITIZEN AGAINST ALL FOUR METRICS AND DETERMINE THEIR RANK
+    
+
+    # DO NOT TOUCH BELOW PRINT STATEMENTS
+    print(f"Citizen {citizen_num} has been assigned rank {rank}.")
+    print()
 
 if __name__ == "__main__":
     main()
